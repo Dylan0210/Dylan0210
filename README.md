@@ -32,4 +32,4 @@ Find out more about me & feel free to connect with me here:
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) -->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Dylan0210&count_private=true&show_icons=true&include_all_commits=true)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesminegandhi&hide=TeX&layout=compact) -->
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=Dylan0210%2FDylan0210&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=Dylan0210%2FDylan0210)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDylan0210%2F&countColor=%23f47373&style=plastic)
