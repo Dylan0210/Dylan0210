@@ -7,7 +7,7 @@
 ### Hi, I'm Dylan 👋
 
 - 👀 I’m interested in becoming a DevOps Engineer
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning Python
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
@@ -27,8 +27,8 @@ Find out more about me & feel free to connect with me here:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
-<!--![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) -->
-<!--![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) -->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Dylan0210&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dylan0210&hide=TeX&layout=compact) 
