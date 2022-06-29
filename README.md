@@ -6,8 +6,8 @@
 
 ### Hi, I'm Dylan 👋
 
-- 👀 I’m interested in becoming a DevOps Engineer
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in becoming a DevOps Engineer | Cloud Engineer
+- 🌱 I’m currently learning AWS and Python
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
